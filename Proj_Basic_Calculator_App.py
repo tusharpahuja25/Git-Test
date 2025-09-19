@@ -1,5 +1,5 @@
 
-print("Helllo! Welcome to Git:))")
+print("Helllo! Welcome to Git:)")
 
 # Simple Calculator in Python
 
